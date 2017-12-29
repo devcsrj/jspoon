@@ -1,1 +1,1 @@
-include ':jspoon', ':retrofit-converter-jspoon',':advanced-example', ':android-example'
+include ':jspoon', ':retrofit-converter-jspoon'
